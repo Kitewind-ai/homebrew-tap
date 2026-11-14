@@ -1,0 +1,3 @@
+Kitewind release c38498152cbd: the setup zips' SHA-256, as /setup shows them
+dba47d6dd14dac9d625a416119c2ed0f46143c8e3cc6e2bcf5763b7d7c233eb5  kitewind-mac-c38498152cbd.zip
+dba47d6dd14dac9d625a416119c2ed0f46143c8e3cc6e2bcf5763b7d7c233eb5  kitewind-pc-c38498152cbd.zip
