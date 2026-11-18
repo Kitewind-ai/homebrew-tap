@@ -1,0 +1,3 @@
+Kitewind release 06ee086ee795: the setup zips' SHA-256, as /setup shows them
+bb0c6cd5cae1b5da5fbb7ce9431ebf927300b80715b2adb0a3d66f3759adc04d  kitewind-mac-06ee086ee795.zip
+bb0c6cd5cae1b5da5fbb7ce9431ebf927300b80715b2adb0a3d66f3759adc04d  kitewind-pc-06ee086ee795.zip
